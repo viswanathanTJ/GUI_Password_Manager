@@ -1,0 +1,4 @@
+cryptography
+pyside2
+pymongo
+firebase_admin
